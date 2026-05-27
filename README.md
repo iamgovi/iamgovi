@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋, I'm Govardhan Tandle
 
-<!--
-**iamgovi/iamgovi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend & AI Systems Developer
 
-Here are some ideas to get you started:
+I enjoy building scalable backend systems, event-driven architectures, and AI-powered applications. My interests lie in Generative AI, cloud-native technologies, distributed systems, and software engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Languages: Java, Python, C++, JavaScript, SQL
+- Backend: FastAPI, Node.js, Express.js, Quarkus, Vert.x
+- AI/ML: LangChain, LlamaIndex, RAG, ChromaDB
+- Cloud: AWS, Docker
+- Databases: PostgreSQL, Apache Pinot
+- Messaging: Apache Pulsar
+
+## Featured Projects
+- AI-Powered Policy Q&A System (RAG + FastAPI)
+- Kinesis – Skill-Based Collaborative Platform
+- Chronos – API Time-Travel Debugging Platform
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/govardhan-tandle-221855276/
+- LeetCode: https://leetcode.com/u/iamgovi/
+- Email: govardhan.tandle@gmail.com
